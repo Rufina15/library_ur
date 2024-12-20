@@ -38,5 +38,5 @@
 
 -   **Email:** saiputulina.rufina@gmail.com
 -   **Телефон:** +7-777-209-12-35
--   **Telegram:** @rufinas
+-   **Telegram:** @saruma15
 -   **GitHub:** [rufina-saiputulina](https://github.com/Rufina15)
